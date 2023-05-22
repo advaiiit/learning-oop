@@ -1,6 +1,4 @@
-package ClassesAndObjects;
-
-import java.util.StringJoiner;
+package classesandobjects;
 
 public class BankAccount {
   private static int accountNumber = 0;
